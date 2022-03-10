@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmallPortfolio</string>
+    <string name="user_name">Илон Маск</string>
+    <string name="user_descr">Предприниматель и бизнес-магнат. Он является основателем, генеральным директором и главным инженером компании SpaceX; инвестором ранней стадии, генеральным директором и архитектором продукции компании Tesla, Inc.; основателем The Boring Company; а также соучредителем Neuralink и OpenAI. С оценочным чистым состоянием около 221 миллиарда долларов США по состоянию на март 2022 годаМаск является самым богатым человеком в мире по данным Bloomberg Billionaires Index и списка миллиардеров Forbes в режиме реального времени.</string>
+    <string name="skills_title">Навыки</string>
+    <string name="next_button">Далее</string>
+    <string name="prev_button">Назад</string>
+</resources>

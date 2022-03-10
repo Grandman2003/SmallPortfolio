@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">SmallPortfolio</string>
+    <string name="user_descr">Entrepreneur and business tycoon. He is the founder, CEO and chief engineer of SpaceX; early stage investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of about $221 billion as of March 2022, Musk is the richest person in the world according to the Bloomberg Billionaires Index and Forbes Real Time Billionaires List.</string>
+    <string name="user_name">Elon Mask</string>
+    <string name="skills_title">Skills</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Back</string>
+</resources>
